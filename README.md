@@ -8,8 +8,9 @@ Além disso, ao retirarmos um valor de uma fila, sempre retiramos o valor mais a
 
 # Motivação:
 
-Inspirado na competição do H2 Challenge em que eu tive que fazer uma média móvel, eu decidi implementar uma fila em zig
-no código do h2 havia o seguinte:
+Inspirado na competição do H2 Challenge em que eu tive que fazer uma média móvel, eu decidi implementar uma fila em zig.
+
+No código do h2 havia o seguinte:
 
 ```c
 for(int i = 0; i<len-1; i++){
